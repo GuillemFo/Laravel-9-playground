@@ -56,3 +56,5 @@ has more visible configuration
 Docs:
 
 https://laravel.com/docs/9.x/
+
+https://api.laravel.com/docs/9.x/[Global_Namespace].html
